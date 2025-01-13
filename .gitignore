@@ -1,0 +1,4 @@
+venv
+.env
+
+data/raw/MARBURG_ASSAY_DATA_RAW.csv
