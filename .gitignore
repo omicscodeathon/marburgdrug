@@ -1,4 +1,7 @@
 venv
 .env
+*.smi
+*PubChem.csv
+*PubChem.csv.log
 
 data/raw/MARBURG_ASSAY_DATA_RAW.csv
