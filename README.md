@@ -7,7 +7,39 @@ Machine Learning and Molecular Dynamics Simulations Predict Potential Compounds 
   In this project, we aim to leverage the power of machine learning and molecular docking to accelerate the identification of potential lead compounds against Marburg virus. This approach integrates computational techniques to streamline the traditionally resource-intensive process of drug discovery, offering a rapid, cost-effective alternative to experimental methods.
 </p>
 
-## Project Objectives 
-<p align="justify">
- 
-</p>
+## Table of contents
+1. [Project Objectives](#objectives)
+2. [Graphical Abstract](#description)
+3. [Results](#results)
+4. [How to use](#how-to-use)
+5. [Data Availability](#data-availability)
+6. [Reproducibility](#reproducibility-prerequisites)
+7. [Credits](#credits)
+
+## Project Objectives
+- [X] Identify a suitable protein target for Marburg virus.
+- [X] Identify a suitable database for interactions between small molecules and the protein target.
+- [X] Preprocess and train multiple ML models.
+- [X] Evaluate ML performance and select top models.
+- [X] Application and Validation of Models.
+- [X] Deployment of models for easy accessibility.
+
+## Graphical Abstract
+
+## Results
+
+## How to use
+
+## Data Availability
+The data used for this project can be [here](https://pubchem.ncbi.nlm.nih.gov/assay/pcget.cgi?query=download&record_type=datatable&actvty=all&response_type=save&aid=540276)
+
+## Reproducibility
+
+## Credits
+**The Team members include:**
+1. Eugene Lamptey – lampteyeugen08@gmail.com
+2. Gabriel Anyaele - gabrielanyaele21@gmail.com
+3. Daveson Innocento Brank Kepgang - davesonbrank@gmail.com
+4. Harry Arthur - harryaurthur06@gmail.com
+5. Olaitan I. Awe - laitanawe@gmail.com
+
