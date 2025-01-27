@@ -39,7 +39,7 @@ The data used for this project can be [here](https://pubchem.ncbi.nlm.nih.gov/as
 **The Team members include:**
 1. Eugene Lamptey – lampteyeugen08@gmail.com
 2. Gabriel Anyaele - gabrielanyaele21@gmail.com
-3. Daveson Innocento Brank Kepgang - davesonbrank@gmail.com
+3. George Hansen - George.hanson417@gmail.com
 4. Harry Arthur - harryaurthur06@gmail.com
 5. Olaitan I. Awe - laitanawe@gmail.com
 
