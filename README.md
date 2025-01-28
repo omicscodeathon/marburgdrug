@@ -26,6 +26,9 @@ Machine Learning and Molecular Dynamics Simulations Predict Potential Compounds 
 
 ## Graphical Abstract
 
+![image](https://github.com/user-attachments/assets/36d03421-6e67-47ff-bf0c-655e92a1913a)
+
+
 ## Results
 
 ## How to use
