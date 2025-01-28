@@ -40,6 +40,9 @@ The data used for this project can be [here](https://pubchem.ncbi.nlm.nih.gov/as
 
 ## Credits
 **The Team members include:**
+
+| N°  | First & Last Name              | Email address                    | ORCID ID                                                       | 
+| :--:| :----------------------------- | :------------------------------: | :------------------------------------------------------------: | 
 |1    | Gabriel Anyaele                | lampteyeugen08@gmail.com         | [0009-0002-3354-1500](https://orcid.org/0009-0002-3354-1500)   |
 |2    | Gabriel Anyaele                | gabrielanyaele21@gmail.com       | [0009-0004-5094-5835](https://orcid.org/0009-0007-2720-9102)   |
 |3    | Harry Arthur                   | harryaurthur06@gmail.com         | [0000-0000-0000-0000](https://orcid.org/0000-0000-0000-0000)   |
