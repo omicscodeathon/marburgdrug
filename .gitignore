@@ -5,3 +5,15 @@ venv
 *PubChem.csv.log
 
 data/raw/MARBURG_ASSAY_DATA_RAW.csv
+*.jar
+
+
+*process_new_data.ipynb
+*train_padel_desc.csv
+*test_padel_desc.csv
+*all_padel_desc.csv
+
+*001_preprocessed_data.csv
+*002_test_padel_fps.csv
+*002_train_padel_fps.csv
+*validation_fps.csv
