@@ -43,10 +43,13 @@ The data used for this project can be [here](https://pubchem.ncbi.nlm.nih.gov/as
 
 | N°  | First & Last Name              | Email address                    | ORCID ID                                                       | 
 | :--:| :----------------------------- | :------------------------------: | :------------------------------------------------------------: | 
-|1    | Eugene Lamptey (Lead)                 | lampteyeugen08@gmail.com         | [0009-0002-3354-1500](https://orcid.org/0009-0002-3354-1500)   |
+|1    | Eugene Lamptey (Lead)          | lampteyeugen08@gmail.com         | [0009-0002-3354-1500](https://orcid.org/0009-0002-3354-1500)   |
 |2    | Gabriel Anyaele                | gabrielanyaele21@gmail.com       | [0009-0004-5094-5835](https://orcid.org/0009-0004-5094-5835)   |
-|3    | Harry Arthur                   | harryaurthur06@gmail.com         | [0000-0000-0000-0000](https://orcid.org/0000-0000-0000-0000)   |
+|3    | Harry Arthur                   | harryaurthur06@gmail.com         | [0009-0007-5987-9143](https://orcid.org/0009-0007-5987-9143)   |
 |4    | George Hanson                  | george.hanson417@gmail.com       | [0009-0007-2720-9102](https://orcid.org/0009-0007-2720-9102)   |
-|5    | Olaitan I. Awe                 | laitanawe@gmail.com              | [0000-0002-4257-3611](https://orcid.org/0000-0002-4257-3611)   |
+|5    | Thaddeus Adjadeh               | thaddeusvandel@gmail.com         | [0009-0006-3777-3631](https://orcid.org/0009-0006-3777-3631)   |
+|6    | Dorothy Sagoe                  | dorothysagoe1@gmail.com          | [0009-0003-2015-3282](https://orcid.org/0009-0003-2015-3282)   |
+|7    | Olaitan I. Awe                 | laitanawe@gmail.com              | [0000-0002-4257-3611](https://orcid.org/0000-0002-4257-3611)   |
+
 
 
